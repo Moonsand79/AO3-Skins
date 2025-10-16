@@ -1,0 +1,1188 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.heading {
+  font-family: "OpenDyslexic", "Comic Sans MS", Arial, sans-serif;
+  border-bottom: none;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+body,
+input,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown,
+button,
+blockquote,
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander,
+.bookmark .user .meta,
+.datetime,
+a.work,
+span.symbol,
+.splash .news .meta,
+select,
+#footer li,
+.comment .userstuff,
+.blurb dl.stats,
+.actions li a,
+.actions li input,
+.actions li input[type=submit],
+input[type=submit],
+.actions li .current,
+.actions li label,
+#header .primary .menu a,
+#header .primary .menu .current,
+form.search input[type=text],
+dd.autocomplete li.input,
+input[type=radio],
+input[type=checkbox],
+input[type=file],
+input.number,
+p input,
+p select,
+.heading select,
+li select,
+input:focus,
+select:focus,
+textarea:focus,
+textarea,
+p.type,
+.meta dd,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff,
+#header h1,
+#header,
+#outer.wrapper,
+#inner.wrapper,
+#modal,
+#main,
+h5,
+h6,
+h4.viewed,
+p.note {
+  font-family: "OpenDyslexic", "Comic Sans MS", Arial, sans-serif;
+  font-size: 1em;
+}
+
+#chapters,
+#chapters p,
+textarea,
+#footer li,
+.preface.group blockquote.userstuff,
+.preface.group blockquote.userstuff p,
+.comment .userstuff,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff,
+#inner.wrapper,
+#modal,
+h3,
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander,
+.userstuff li,
+.userstuff ul,
+.userstuff p,
+.userstuff h2,
+.userstuff h1,
+.userstuff h3,
+.userstuff h4,
+p.note,
+blockquote,
+body,
+input,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown,
+button,
+#main,
+select {
+  line-height: 1.6em;
+  letter-spacing: 0.02em;
+  word-spacing: 0.16em;
+}
+
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander {
+  font-size: 0.9em;
+}
+
+h1,
+h2 {
+  font-size: 1.8em;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h4 {
+  font-size: 1.3em;
+}
+
+h4.heading {
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+h4.heading .datetime {
+  padding: 3px;
+  font-size: 0.65em;
+}
+
+code,
+pre {
+  font-family: "OpenDyslexic Mono", "Comic Sans MS", Courier, monospace;
+  font-size: 0.95em;
+  padding: 0.8em 0.5em;
+  background-color: #e9eeeb;
+  border-radius: 6px;
+  color: #07110b;
+}
+
+.home .header h2,
+.preface h3,
+.faq .categories h3,
+.userstuff h3,
+#footer a {
+  border-bottom: none;
+}
+
+#chapters,
+#chapters p,
+textarea,
+#footer li,
+.preface.group blockquote.userstuff,
+.preface.group blockquote.userstuff p,
+.userstuff p,
+.comment .userstuff,
+div#comments_placeholder,
+.blurb dl.stats,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff {
+  text-align: left;
+}
+
+#workskin {
+  text-align: left !important;
+}
+
+div#comments_placeholder,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff {
+  width: 75%;
+  max-width: 50em;
+}
+
+.comment .userstuff {
+  width: 95%;
+}
+
+.blurb .userstuff {
+  padding: 15px 0;
+}
+
+.userstuff p {
+  margin: 1.5em auto;
+}
+
+u,
+acronym[title],
+abbr[title] {
+  border-bottom: 2px solid #245336;
+  padding-bottom: 3px;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+b,
+strong {
+  font-weight: 700;
+  color: #07110b;
+}
+
+i,
+em,
+cite {
+  font-style: normal;
+  font-weight: 600;
+  color: #07110b;
+}
+
+.userstuff blockquote {
+  border-inline-start: 3px solid #245336;
+  padding-left: 1em;
+  margin-left: 0.8em;
+  background-color: #e9eeeb;
+  padding: 0.8em 1em;
+  border-radius: 6px;
+}
+
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu,
+.event .userstuff,
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash,
+.actions a:hover,
+.actions input:hover,
+.actions a:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus,
+.dynamic form,
+.ui-draggable form,
+#header .primary,
+.group.listbox,
+fieldset fieldset.listbox,
+#main li.blurb,
+.wrapper,
+#dashboard .secondary,
+.secondary,
+form blockquote.userstuff,
+.thread .comment,
+.toggled form,
+.listbox .index,
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+span.question,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+.delete a,
+span.delete,
+#header ul.primary,
+.ui-sortable li,
+input,
+.actions input,
+input[type=submit],
+textarea,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  box-shadow: none;
+  transition: all 0.3s ease;
+}
+
+.announcement blockquote.userstuff,
+#footer,
+.autocomplete .dropdown ul li:hover,
+li.selected,
+.autocomplete a:hover,
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+input,
+.actions input,
+input[type=submit],
+textarea,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  background-image: none;
+}
+
+.actions input,
+input[type=submit],
+textarea,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  -webkit-appearance: none;
+}
+
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+input[type=submit],
+button,
+.current,
+.actions label,
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash,
+.actions a:hover,
+.actions input:hover,
+.actions a:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus,
+.toggled form,
+.dynamic form,
+.ui-draggable form {
+  border: none;
+}
+
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  border: none;
+  border-radius: 6px;
+  padding: 8px 16px;
+}
+
+input {
+  width: 96%;
+  border: 2px solid #92a99b;
+  padding: 8px;
+}
+
+.actions a:hover,
+a:hover,
+.actions input:hover,
+#dashboard a:hover,
+.actions a:focus,
+.actions input:focus,
+#dashboard a:focus,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+#dashboard .current,
+#outer .current,
+#header .current,
+span.unread,
+.replied,
+span.claimed,
+dl.index dd,
+.own,
+.draft,
+.draft .unread,
+.child,
+.unwrangled,
+.unreviewed,
+.ui-sortable li:hover,
+#header .primary .menu .current {
+  border-color: initial;
+  box-shadow: 0 2px 6px rgba(36, 83, 54, 0.2);
+}
+
+.listbox .index,
+.dashboard .listbox .index,
+.splash .news li,
+form dt,
+.picture .header {
+  border: none;
+}
+
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu,
+.event .userstuff {
+  filter: none;
+}
+
+.autocomplete input,
+.autocomplete .dropdown ul li {
+  min-width: 10px;
+}
+
+fieldset.work.meta .fandom.required ul.autocomplete {
+  background: transparent;
+}
+
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.listbox,
+.listbox .index,
+fieldset fieldset.listbox,
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+form.verbose legend,
+.verbose form legend,
+li.blurb,
+li.comment,
+.comment h4.byline,
+dl.index dd,
+form blockquote.userstuff,
+table,
+tr,
+th,
+td,
+thead,
+tfoot,
+.reading h4.viewed,
+#bookmark_form_placement form,
+#collection-form form,
+.nomination dt {
+  background: transparent;
+}
+
+.secondary,
+dl.meta,
+li.post.group,
+.faq .example,
+.guideline .example,
+tr:hover,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.listbox,
+fieldset fieldset.listbox,
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+form.verbose legend,
+.verbose form legend,
+li.blurb,
+li.comment,
+#bookmark_form_placement form,
+#collection-form form {
+  border: none;
+  border-radius: 8px;
+}
+
+th,
+thead,
+tbody tr {
+  border: none;
+}
+
+li.post.group {
+  padding: 12px;
+}
+
+.splash .news li:last-of-type {
+  border-bottom: none;
+  border-radius: 8px;
+}
+
+tr,
+th,
+td,
+thead,
+tfoot {
+  vertical-align: middle;
+}
+
+col.name {
+  background: transparent;
+}
+
+span.symbol {
+  color: initial;
+  border: 2px solid #245336;
+  vertical-align: middle;
+  border-radius: 4px;
+  padding: 2px 5px;
+}
+
+.blurb .header img,
+#workskin h2.heading img {
+  vertical-align: baseline;
+  padding: 4px;
+  border-radius: 6px;
+}
+
+.icon {
+  height: 80px;
+  width: 80px;
+}
+
+.tag .primary .icon,
+.tagset .primary .icon {
+  background: url(/images/imageset.png) -10px -285px;
+}
+
+.skins .primary .icon {
+  background: url(/images/imageset.png) -10px -185px;
+}
+
+.comment h4.byline {
+  padding: 0.4em;
+}
+
+.abbreviated h4.byline {
+  padding-left: 0.4em;
+}
+
+.comment div.icon {
+  margin: 12px;
+}
+
+.comment .icon .visitor {
+  background: url(/images/imageset.png) no-repeat -10px -85px;
+  display: block;
+}
+
+.comment .posted {
+  display: block;
+  float: none;
+}
+
+.group.listbox {
+  border: 2px solid transparent;
+}
+
+#bookmark_form_placement form,
+#collection-form form {
+  border: none;
+}
+
+.fandom .group.listbox {
+  width: 100%;
+}
+
+form.inbox {
+  overflow-x: initial;
+}
+
+#dashboard {
+  border-color: transparent;
+}
+
+.LV_invalid,
+.qtip-content {
+  background: #245336;
+  border: none;
+  color: #e9eeeb;
+  border-radius: 6px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+  z-index: 1;
+  padding: 10px 14px;
+}
+
+.qtip-content {
+  border-radius: 0 6px 6px 6px;
+}
+
+.LV_invalid:before {
+  border-color: #245336 transparent;
+  border-width: 0 0.643em 0.643em;
+}
+
+.LV_invalid_field,
+input.LV_invalid_field:hover,
+input.LV_invalid_field:active,
+textarea.LV_invalid_field:hover,
+textarea.LV_invalid_field:active {
+  border-color: #f26a6a;
+}
+
+#bookmark-form,
+#collection-form {
+  margin-top: 20px;
+}
+
+#header .primary,
+#footer {
+  background: #245336 !important;
+  background-color: #245336 !important;
+}
+
+#header .primary .menu,
+#header .primary a,
+#header .primary a:visited,
+#footer,
+#footer a,
+#footer a:link,
+#footer a:visited,
+#footer .heading {
+  color: #e9eeeb !important;
+}
+
+#header .heading a,
+#header .heading a:link,
+#header .heading a:visited {
+  color: #245336 !important;
+}
+
+#dashboard,
+#main .navigation,
+.navigation,
+.group.listbox .index,
+#main .dashboard .listbox .index,
+.dashboard .listbox .index {
+  border-color: #245336 !important;
+}
+
+div#comments_placeholder,
+#main.system h2.heading,
+#main.system h3.heading,
+.userstuff img,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff {
+  margin: auto;
+}
+
+#outer.wrapper,
+#header {
+  line-height: normal;
+}
+
+#header .logo,
+#header .heading sup,
+#greeting p.icon {
+  display: none;
+}
+
+#header .heading {
+  margin-left: 2em;
+}
+
+#header h1 {
+  font-weight: 700;
+}
+
+#login,
+#greeting {
+  margin-top: 12px;
+}
+
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu {
+  width: 26em;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 6px;
+}
+
+.news .wrapper,
+#main.system h2.heading,
+#main.system h3.heading,
+#header h2.collections,
+#header h2 {
+  text-align: center;
+}
+
+.userstuff img {
+  max-width: 90%;
+  border-radius: 6px;
+}
+
+#main.system h2.heading,
+#main.system h3.heading,
+.userstuff img {
+  display: block;
+}
+
+#header h2.collections,
+#header h2 {
+  border-top: none;
+}
+
+.home .header .userstuff,
+.home .header dl.stats,
+.home .header .type {
+  margin-left: initial;
+}
+
+a.tag,
+a.tag:visited,
+a.tag:link {
+  display: inline-block;
+  padding: 6px 12px;
+  margin: 4px 3px;
+  border: none;
+  border-radius: 16px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.commas li:after {
+  content: "";
+}
+
+h5.fandoms.heading {
+  color: transparent;
+}
+
+.favorite a.tag {
+  border: none;
+}
+
+.blurb dl.stats {
+  float: initial;
+}
+
+.meta ul li {
+  padding-left: 0;
+}
+
+#header .primary a {
+  color: #e9eeeb;
+}
+
+.blurb ul li,
+.blurb dd ul li,
+.meta dd ul li {
+  display: inline;
+  margin: 0;
+}
+
+.notice a,
+.notice a:link,
+.notice a:visited,
+.announcement a,
+.announcement a:link,
+.announcement a:visited {
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+a,
+a:link,
+a:visited,
+.listbox .index a:link,
+.listbox .index a:visited,
+.listbox .index a,
+#header .heading a,
+#header .heading a:link,
+#header .heading a:visited,
+.splash .module h3,
+.blurb h4 a:link,
+.blurb h4 a,
+.blurb h4 a:visited,
+.blurb h4.heading a:link,
+.blurb h4.heading a,
+.blurb h4.heading a:visited,
+#dashboard a,
+#dashboard span,
+#header .user a:hover,
+#header .user a:focus,
+#header .user .current,
+li::marker,
+.draggable,
+.droppable,
+.heading a,
+.heading a:link,
+.heading a:visited,
+dl.meta a,
+.listbox a,
+ol.work.index.group li a,
+.blurb .relationships a {
+  color: #245336 !important;
+}
+
+#header .dropdown .menu,
+#header .dropdown .menu a,
+#header .dropdown .menu li,
+#greeting .dropdown .menu,
+#greeting .dropdown .menu a,
+#greeting .dropdown .menu li {
+  color: #07110b !important;
+  background: #e9eeeb !important;
+}
+
+.tags li.fandom a.tag,
+.tags li.fandom:nth-of-type(3n+1) a.tag,
+.tags li.fandom:nth-of-type(3n+2) a.tag,
+.tags li.fandom:nth-of-type(3n+3) a.tag,
+li.fandom a.tag,
+li.fandom a,
+.meta dd.fandom.tags a.tag,
+.meta dd.fandom.tags li a,
+dt.fandom.tags a,
+dd.fandom.tags a {
+  background-color: #92a99b !important;
+  color: #07110b !important;
+}
+
+.tags li.rating a.tag,
+.tags li.rating:nth-of-type(3n+1) a.tag,
+.tags li.rating:nth-of-type(3n+2) a.tag,
+.tags li.rating:nth-of-type(3n+3) a.tag,
+li.rating a.tag,
+li.rating a,
+.meta dd.rating.tags a.tag,
+.meta dd.rating.tags li a,
+dt.rating.tags a,
+dd.rating.tags a {
+  background-color: #92a99b !important;
+  color: #07110b !important;
+}
+
+.tags li.warning a.tag,
+.tags li.warning:nth-of-type(3n+1) a.tag,
+.tags li.warning:nth-of-type(3n+2) a.tag,
+.tags li.warning:nth-of-type(3n+3) a.tag,
+li.warning a.tag,
+li.warning a,
+.meta dd.warning.tags a.tag,
+.meta dd.warning.tags li a,
+dt.warning.tags a,
+dd.warning.tags a,
+.warnings .tag,
+.work .warning a.tag {
+  background-color: #7c9886 !important;
+  color: #07110b !important;
+}
+
+.tags li.category a.tag,
+.tags li.category:nth-of-type(3n+1) a.tag,
+.tags li.category:nth-of-type(3n+2) a.tag,
+.tags li.category:nth-of-type(3n+3) a.tag,
+li.category a.tag,
+li.category a,
+.meta dd.category.tags a.tag,
+.meta dd.category.tags li a,
+dt.category.tags a,
+dd.category.tags a {
+  background-color: #7c9886 !important;
+  color: #07110b !important;
+}
+
+.tags li.relationships a.tag,
+.tags li.relationships:nth-of-type(3n+1) a.tag,
+.tags li.relationships:nth-of-type(3n+2) a.tag,
+.tags li.relationships:nth-of-type(3n+3) a.tag,
+li.relationships a.tag,
+li.relationships a,
+.meta dd.relationship.tags a.tag,
+.meta dd.relationship.tags li a,
+dt.relationship.tags a,
+dd.relationship.tags a,
+.relationships .tag,
+.work .relationships a.tag {
+  background-color: #668772 !important;
+  color: #e9eeeb !important;
+}
+
+.tags li.characters a.tag,
+.tags li.characters:nth-of-type(3n+1) a.tag,
+.tags li.characters:nth-of-type(3n+2) a.tag,
+.tags li.characters:nth-of-type(3n+3) a.tag,
+li.characters a.tag,
+li.characters a,
+.meta dd.character.tags a.tag,
+.meta dd.character.tags li a,
+dt.character.tags a,
+dd.character.tags a,
+.characters .tag,
+.work .characters a.tag {
+  background-color: #50755e !important;
+  color: #e9eeeb !important;
+}
+
+.tags li.freeforms a.tag,
+.tags li.freeforms:nth-of-type(3n+1) a.tag,
+.tags li.freeforms:nth-of-type(3n+2) a.tag,
+.tags li.freeforms:nth-of-type(3n+3) a.tag,
+li.freeforms a.tag,
+li.freeforms a,
+.meta dd.freeform.tags a.tag,
+.meta dd.freeform.tags li a,
+dt.freeform.tags a,
+dd.freeform.tags a,
+.freeforms .tag,
+.work .freeforms a.tag {
+  background-color: #3a644a !important;
+  color: #e9eeeb !important;
+}
+
+.tags li.fandom a.tag:hover,
+.tags li.rating a.tag:hover,
+.tags li.warning a.tag:hover,
+.tags li.category a.tag:hover,
+.tags li.freeforms a.tag:hover,
+.tags li.characters a.tag:hover,
+.tags li.relationships a.tag:hover,
+li.fandom a.tag:hover,
+li.rating a.tag:hover,
+li.warning a.tag:hover,
+li.category a.tag:hover,
+li.freeforms a.tag:hover,
+li.characters a.tag:hover,
+li.relationships a.tag:hover,
+.meta dd.fandom.tags a.tag:hover,
+.meta dd.rating.tags a.tag:hover,
+.meta dd.warning.tags a.tag:hover,
+.meta dd.category.tags a.tag:hover,
+.meta dd.freeform.tags a.tag:hover,
+.meta dd.character.tags a.tag:hover,
+.meta dd.relationship.tags a.tag:hover,
+.meta dd.fandom.tags li a:hover,
+.meta dd.rating.tags li a:hover,
+.meta dd.warning.tags li a:hover,
+.meta dd.category.tags li a:hover,
+.meta dd.freeform.tags li a:hover,
+.meta dd.character.tags li a:hover,
+.meta dd.relationship.tags li a:hover {
+  background-color: #245336 !important;
+  color: #e9eeeb !important;
+  transform: translateY(-2px);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+}
+
+.filters fieldset {
+  padding: 0;
+}
+
+.filters .expander,
+.filters .expanded .expander {
+  padding: 6px 10px;
+  font-size: 1em;
+  background: none;
+  border-radius: 6px;
+}
+
+.filters .expander::before {
+  content: "▶";
+  margin-right: 6px;
+}
+
+.filters .expanded .expander::before {
+  content: "▼";
+  margin-right: 6px;
+}
+
+.filters input:checked + .indicator + span {
+  font-weight: 600;
+}
+
+.filters [type=radio] + .indicator:before,
+.filters [type=radio]:checked + .indicator:before,
+.filters [type=checkbox] + .indicator:before,
+.filters .exclude [type=checkbox] + .indicator:before,
+.filters [type=checkbox]:checked + .indicator:before,
+.filters .exclude [type=checkbox]:checked + .indicator:before,
+input[type=checkbox],
+input[type=radio],
+input[type=checkbox]:checked,
+input[type=radio]:checked,
+.actions input[type=checkbox]:checked,
+label.action input[type=checkbox]:checked,
+input[type=checkbox]:hover,
+.actions input[type=checkbox]:hover {
+  width: 1em;
+  height: 1em;
+}
+
+input[type=radio] {
+  border-radius: 50%;
+}
+
+.filters [type=radio] + .indicator:before {
+  content: "";
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #e9eeeb;
+  border: 2px solid #92a99b;
+  border-radius: 50%;
+}
+
+.filters [type=radio]:checked + .indicator:before {
+  content: "";
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #245336;
+  border: 2px solid #245336;
+}
+
+.filters [type=checkbox] + .indicator:before,
+.filters .exclude [type=checkbox] + .indicator:before {
+  content: "";
+  padding: 0;
+  border-radius: 3px;
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #e9eeeb;
+  border: 2px solid #92a99b;
+}
+
+.filters [type=checkbox]:checked + .indicator:before,
+.filters .exclude [type=checkbox]:checked + .indicator:before {
+  content: "";
+  padding: 0;
+  border-radius: 3px;
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #245336;
+  border: 2px solid #245336;
+}
+
+.filters .exclude [type=checkbox]:checked + .indicator:before {
+  background-color: #f26a6a;
+  border-color: #f26a6a;
+}
+
+input[type=checkbox],
+input[type=radio],
+.actions input[type=checkbox],
+label.action input[type=checkbox] {
+  background-color: #e9eeeb;
+  border: 2px solid #92a99b;
+}
+
+input[type=checkbox],
+input[type=radio],
+input[type=checkbox]:checked,
+input[type=radio]:checked,
+.actions input[type=checkbox]:checked,
+label.action input[type=checkbox]:checked,
+input[type=checkbox]:hover,
+.actions input[type=checkbox]:hover {
+  display: inline-block;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border-radius: 3px;
+}
+
+input[type=checkbox]:checked,
+input[type=radio]:checked,
+.actions input[type=checkbox]:checked,
+label.action input[type=checkbox]:checked {
+  background-color: #245336;
+  border: 2px solid #245336;
+}
+
+input[type=checkbox]:hover,
+.actions input[type=checkbox]:hover,
+.filters [type=checkbox]:hover + .indicator:before,
+.filters [type=radio]:hover + .indicator:before,
+.filters .exclude [type=checkbox]:hover + .indicator:before {
+  background-color: #50755e;
+  border-color: #50755e;
+}
+
+.filters dt {
+  min-width: auto;
+}
+
+.filters {
+  font-size: 90%;
+}
+
+form.search input[type=text],
+dd.autocomplete li.input,
+input[type=radio],
+select,
+input[type=file],
+input.number,
+p select,
+.heading select,
+li select,
+input:focus,
+select:focus,
+textarea:focus,
+input,
+textarea {
+  border: 2px solid #92a99b;
+  background-color: #ffffff;
+  border-radius: 6px;
+  padding: 8px;
+  transition: all 0.3s ease;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  border-color: #245336;
+  box-shadow: 0 0 0 3px rgba(36, 83, 54, 0.1);
+}
+
+p input,
+input[type=checkbox] {
+  border: 2px solid #92a99b;
+  background-color: #ffffff;
+}
+
+.filters [type=radio] + .indicator:before,
+.filters [type=checkbox] + .indicator:before,
+.filters .exclude [type=checkbox] + .indicator:before {
+  background-color: #e9eeeb;
+}
+
+.filters .exclude [type=checkbox]:checked + .indicator:before {
+  background-color: #f26a6a;
+}
+
+.javascript {
+  background-color: #ffffff !important;
+}
+
+.announcement input[type=submit],
+.announcement .action {
+  border: 2px solid #245336;
+}
